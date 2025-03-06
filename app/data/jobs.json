@@ -1,0 +1,103 @@
+
+ 
+[
+    { "id": 1, 
+    "title": "Frontend Developer", 
+    "company": "Tech Corp", 
+    "location": "Remote", 
+    "salary": "₦400,000", 
+    "details": "We seek a creative Frontend Developer to craft responsive and engaging web interfaces.\n\nRequirements:\n- Proficiency in React and CSS\n- Experience with component-based UI design\n\nResponsibilities:\n- Develop dynamic UI components\n- Optimize web performance\n"
+    },
+
+    { "id": 2,
+     "title": "Backend Engineer",
+      "company": "Dev Solutions", 
+      "location": "Enugu", 
+      "salary": "₦300,000", 
+      "details": "Seeking a Backend Engineer with expertise in Node.js and databases.\n\nRequirements:\n- Strong experience in backend development\n- Knowledge of RESTful APIs and database management\n\nResponsibilities:\n- Build and optimize backend systems\n- Maintain security and performance\n"
+    },
+
+    { "id": 3,
+     "title": "UI/UX Designer", 
+     "company": "Creative Minds", 
+     "location": "Lagos", 
+     "salary": "₦350,000",
+      "details": "We need a skilled UI/UX Designer to enhance user experiences.\n\nRequirements:\n- Proficiency in Figma and Adobe XD\n- Strong understanding of UX principles\n\nResponsibilities:\n- Design wireframes and prototypes\n- Conduct user research and testing\n"
+    },
+
+    { "id": 4,
+     "title": "Project Manager", 
+     "company": "Agile Hub", 
+     "location": "Abuja", 
+     "salary": "₦500,000",
+      "details": "Looking for a Project Manager to oversee software projects.\n\nRequirements:\n- Experience with Agile methodologies\n- Strong leadership and communication skills\n\nResponsibilities:\n- Manage project timelines and deliverables\n- Coordinate with cross-functional teams\n"
+     },
+
+    { "id": 5, 
+      "title": "DevOps Engineer", 
+      "company": "CloudNet", 
+      "location": "Remote", 
+      "salary": "₦450,000",
+      "details": "We are looking for a skilled DevOps Engineer to enhance deployment and infrastructure management.\n\nRequirements:\n- Experience with CI/CD pipelines\n- Proficiency in cloud platforms like AWS or Azure\n\nResponsibilities:\n- Automate infrastructure provisioning\n- Monitor system performance and security\n"
+     },
+
+    { "id": 6, 
+      "title": "Data Scientist", 
+      "company": "Data Analytics Ltd.", 
+      "location": "Kano", 
+      "salary": "₦600,000",
+      "details": "Seeking a Data Scientist to derive insights from complex datasets.\n\nRequirements:\n- Strong background in Python and machine learning\n- Experience with big data tools and statistical analysis\n\nResponsibilities:\n- Develop predictive models and algorithms\n- Interpret data to guide business decisions\n"
+     },
+
+     { "id": 7, 
+       "title": "Full Stack Developer", 
+       "company": "Innovate IT", 
+       "location": "Port Harcourt", 
+       "salary": "₦550,000",
+      "details": "Hiring a Full Stack Developer to build scalable web applications.\n\nRequirements:\n- Proficiency in JavaScript (React & Node.js)\n- Knowledge of database management (SQL & NoSQL)\n\nResponsibilities:\n- Develop frontend and backend components\n- Ensure application scalability and security\n"
+     },
+
+    { "id": 8, 
+      "title": "Mobile App Developer", 
+      "company": "App Creators", 
+      "location": "Benin City", 
+      "salary": "₦400,000", 
+      "details": "We seek a Mobile App Developer to create high-performance mobile applications.\n\nRequirements:\n- Expertise in Flutter or React Native\n- Experience in mobile UI/UX design\n\nResponsibilities:\n- Develop cross-platform mobile apps\n- Optimize app performance and security\n"
+    },
+
+    { 
+        "id": 9,
+         "title": "Cybersecurity Analyst", 
+         "company": "SecureTech", 
+         "location": "Ibadan", 
+         "salary": "₦500,000", 
+      "details": "Looking for a Cybersecurity Analyst to safeguard IT systems and networks.\n\nRequirements:\n- Strong knowledge of security protocols and risk assessment\n- Experience in penetration testing and threat detection\n\nResponsibilities:\n- Monitor and prevent cyber threats\n- Implement security best practices\n"
+     },
+
+     { 
+        "id": 10, 
+        "title": "IT Support Specialist", 
+        "company": "Tech Assist",
+         "location": "Jos", 
+         "salary": "₦250,000",
+      "details": "Seeking an IT Support Specialist to troubleshoot and resolve technical issues.\n\nRequirements:\n- Knowledge of hardware and software troubleshooting\n- Strong communication and problem-solving skills\n\nResponsibilities:\n- Provide technical assistance to employees\n- Maintain IT systems and networks\n"
+    },
+
+    {
+         "id": 11, 
+         "title": "Game Developer", 
+         "company": "Tech Savy", 
+         "location": "Imo", 
+         "salary": "₦600,000", 
+         "details": "We need a Game Developer to create immersive gaming experiences.\n\nRequirements:\n- Proficiency in Unity or Unreal Engine\n- Strong C# or C++ programming skills\n\nResponsibilities:\n- Develop engaging gameplay mechanics\n- Optimize game performance and visuals\n"
+    },
+
+    { "id": 12, 
+      "title": "Data Analyst", 
+      "company": "Amazon Assit", 
+      "location": "Ibadan", 
+      "salary": "₦350,000", 
+      "details": "Hiring a Data Analyst to analyze and interpret business data.\n\nRequirements:\n- Proficiency in SQL and data visualization tools\n- Strong analytical and problem-solving skills\n\nResponsibilities:\n- Generate reports and insights from datasets\n- Identify trends and patterns to support decision-making\n"
+    }
+  
+  ]
